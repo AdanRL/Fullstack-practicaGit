@@ -1,5 +1,5 @@
 # Contrato de conquista de Stewie Griffin
-## Autor: Adán de la Rosa Lugo
+## Autor: :rocket:Adán de la Rosa Lugo:rocket:
 ## Fecha: 22/09/2021
 
 ### Contenido:
