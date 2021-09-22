@@ -8,6 +8,8 @@
 * index.html
 * index.css
 
+### Confirmaciones
+
 ```zsh
  adan@DESKTOP-7QLE80M  ~/workspace/conquista   main  git log
 commit bb1b0340be420209030b20cfe61782f914bc4fa9 (HEAD -> main)
